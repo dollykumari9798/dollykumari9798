@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Dolly👋👩‍💻</h1>
+<!-- <h1 align="center">Hi, I am Dolly👋👩‍💻</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dollykumari9798">
   <img src="https://img.shields.io/github/followers/dollykumari9798?label=Follow&style=social)[(https://github.com/dollykumari9798">
@@ -42,4 +42,9 @@
 
 
 <p align="center">https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only
-</p>
+</p> -->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
