@@ -41,6 +41,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollykumari9798&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 
 
-<p align="center">
-  https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only
+<p align="center">https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only
 </p>
