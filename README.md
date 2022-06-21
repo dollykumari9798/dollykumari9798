@@ -42,6 +42,7 @@
 
 
 <p align="center">
-https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only
+<!-- https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/output/github-contribution-grid-snake.svg#gh-light-mode-only -->
+  https://raw.githubusercontent.com/dollykumari9798/dollykumari9798/outut/github-contribution-grid-snake.svg
 <!-- <img src="github-user-contribution.svg" alt="snake"> -->
 </p>
